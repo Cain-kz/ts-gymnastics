@@ -1,0 +1,23 @@
+{
+  "name": "ts-gymnastics",
+  "version": "1.0.0",
+  "description": "<!--  * @Author: Cain  * @Date: 2023-04-08 21:27:01  * @LastEditors: Cain  * @LastEditTime: 2023-04-08 21:28:04 --> # ts-gymnastics ## ts体操课 - https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cain-kz/ts-gymnastics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cain-kz/ts-gymnastics/issues"
+  },
+  "homepage": "https://github.com/Cain-kz/ts-gymnastics#readme",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
